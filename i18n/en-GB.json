@@ -210,7 +210,7 @@
     "amount": "Amount to withdraw",
     "amount_limit": "@:message.withdraw.minimum_value, @:message.withdraw.maximum_value",
     "amount_tip": "{content}, Maximum amount to withdraw {amount}",
-    "available": "Withdrawable {amount} {token}",
+    "available": "Available {amount} {token}",
     "confirm_order_status": "Please copy the wallet address to facilitate order status query in the {chain} block.",
     "copy": "@:message.copy",
     "current_order": "@:message.currentOrder: ",
