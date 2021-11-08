@@ -41,7 +41,7 @@
     "more_than_available_balance": "Balance：{balance}, please check if there is enough assets！",
     "more_than_zero": "Amount to deposit should be bigger than 0",
     "need_activate": "The current SWTC wallet is not activated yet, please send in 35 SWTC to activate wallet.",
-    "password": "deal password",
+    "password": "Trading password",
     "previous_deposit_not_finish": "The previous deposit process is not over yet, no new deposit is accepted. Please wait！",
     "reminder": "Reminder",
     "request_agent_info_failed": "Failed to obtain merchant's infomation, please refresh and try again!",
